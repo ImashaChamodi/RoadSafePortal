@@ -1,0 +1,27 @@
+.image-cn{
+    border: 1px solid black;
+    width: 250px;
+    height: 150px;
+    font-size: 4rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    overflow: hidden;
+    
+    
+}
+.image-cn img{
+    
+    width: 100%;
+    height: auto;
+}
+.submitbutton{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 200px;
+    padding: 1%;
+    background-color:blue;
+    color: white;
+    font-size: 1.5rem;
+}
